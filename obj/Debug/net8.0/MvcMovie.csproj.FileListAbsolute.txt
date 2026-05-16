@@ -275,3 +275,4 @@ C:\Users\antho\OneDrive\Desktop\CSE325\Unit2\MvcMovie\bin\Debug\net8.0\Microsoft
 C:\Users\antho\OneDrive\Desktop\CSE325\Unit2\MvcMovie\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\antho\OneDrive\Desktop\CSE325\Unit2\MvcMovie\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\antho\OneDrive\Desktop\CSE325\Unit2\MvcMovie\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\antho\OneDrive\Desktop\CSE325\Unit2\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
